@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Nintu Biju
 
 ## About Me
-- 🔭 I'm currently completing a Junior Data Analyst Program under Npoer Canada
+- 🔭 I'm currently completing a Junior Data Analyst Program under Npower Canada
 - 🎓 Recent Business Analytics graduate from Conestoga College
 - 🎓 Bachelor's Degree in Mathematics
 - 🌱 I'm learning advanced Python libraries and cloud data analytics
