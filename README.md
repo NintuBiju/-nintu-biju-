@@ -58,7 +58,7 @@ Interactive Tableau dashboards analyzing provincial and municipal crime trends u
 ---
 
 ## 📈 GitHub Stats
-![Nintu's GitHub stats](https://github-readme-stats.vercel.app/api?username=NintuBiju&show_icons=true&theme=radical)
+https://github.com/NintuBiju
 
 ---
 
