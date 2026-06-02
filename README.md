@@ -1,45 +1,70 @@
 # Hi there! 👋 I'm Nintu Biju
 
 ## About Me
-- 🔭 I'm currently completing a Junior Data Analyst Program under Npower Canada
-- 🎓 Recent Business Analytics graduate from Conestoga College
+- 💼 Currently working as a Technical Support Advisor
+- 📊 Junior Data Analyst — NPower Canada Graduate
+- 🎓 Business Analytics graduate from Conestoga College
 - 🎓 Bachelor's Degree in Mathematics
-- 🌱 I'm learning advanced Python libraries and cloud data analytics
-- 💬 Ask me about data visualization, SQL queries, and business intelligence
-- 📫 How to reach me: [Connect on LinkedIn](https://www.linkedin.com/in/nintu-biju)
+- 🌱 Currently learning advanced PySpark, Databricks, and cloud-scale analytics
 - 📍 Based in Waterloo, Ontario, Canada
+- 📫 [Connect on LinkedIn](https://www.linkedin.com/in/nintu-biju)
+
+---
 
 ## 🛠️ Technologies & Tools
-- **Languages:** Python, SQL, R
-- **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn
-- **Visualization:** Tableau, Power BI, Excel
-- **Databases:** MySQL, PostgreSQL
-- **Cloud:** Microsoft Azure (AI-900 Certified)
-- **Other:** Jupyter Notebooks, Git, VS Code
+
+**Languages:** Python, SQL, R
+
+**Data & Analytics:** Pandas, NumPy, PySpark, Scikit-learn, Matplotlib, Seaborn
+
+**Big Data & Cloud:** Databricks, Delta Lake, PySpark MLlib, Microsoft Azure (AI-900)
+
+**Visualization:** Tableau, Power BI, Excel
+
+**Databases:** MySQL, PostgreSQL
+
+**Other:** Jupyter Notebooks, Git, VS Code
+
+---
 
 ## 📊 Featured Projects
-### 🛒 [Retail Sales Analysis](link-to-repo)
-Analyzed 100,000+ sales records using Python and Tableau to identify customer behavior patterns and revenue optimization opportunities.
 
-### 📱 [Telecom Customer Experience Optimization](link-to-repo)
-Built predictive models to improve customer retention rates using SQL and Power BI dashboards.
+### 🔴 [Rogers Communications — Customer Experience & Churn Optimization](https://github.com/NintuBiju/rogers-communications-cx-churn-optimization)
+Analyzed **5 million** Rogers customer records in Databricks using PySpark and Delta Lake. Built an end-to-end pipeline from data ingestion to churn prediction modeling. Random Forest model achieved **AUC-ROC of 0.9437**, identified 746K high-risk customers, and quantified **$360.7M in recoverable annual revenue**.
+`Databricks` `PySpark` `Delta Lake` `MLlib` `Python`
 
-### 🏛️ [Crime Patterns and Safety Analysis](link-to-repo)
-Statistical analysis of crime data to identify safety patterns and trends for urban planning insights.
+### 🛒 [Walmart Supply Chain — Operational Efficiency Analysis](https://github.com/NintuBiju/walmart-supply-chain-analysis)
+End-to-end data analysis using Python and SQL on Databricks. Analyzed 500,000 supply chain events across 10 years to identify root causes of operational delays.
+`Databricks` `Python` `SQL`
 
-### 🏨 [Hotel Operations Efficiency Research](link-to-repo)
-Data-driven analysis of hospitality operations to improve service delivery and customer satisfaction metrics.
+### 🛍️ [Retail Sales Analysis](https://github.com/NintuBiju/retail-sales-analysis)
+Analyzed 100,000+ transaction records to identify product performance trends, customer behaviour patterns, and seasonal sales metrics. Built interactive Power BI dashboards for business reporting.
+`Python` `Pandas` `Power BI` `Statistical Analysis`
+
+### 🏨 [Hotel Operations Efficiency Research](https://github.com/NintuBiju/Hotel_Inefficiencies_Analysis)
+Statistical analysis of hotel operational data to identify staffing inefficiencies and service delivery gaps. Applied regression modelling to quantify relationships between operational variables.
+`Excel` `Statistical Analysis` `Regression Modelling`
+
+### 🏛️ [Crime Patterns and Safety Analysis](https://github.com/NintuBiju/crime-patterns-analysis)
+Interactive Tableau dashboards analyzing provincial and municipal crime trends using public safety datasets to support data-driven policy decisions.
+`Tableau` `Data Visualization` `Statistical Analysis`
+
+---
 
 ## 🏆 Certifications
+- ☁️ Microsoft Azure AI-900 Fundamentals
 - 📜 IBM Data Analyst Professional Certificate (In Progress)
-- ☁️ Microsoft Azure AI-900 Fundamentals (In Progress)
+
+---
 
 ## 📈 GitHub Stats
-![Nintu's GitHub stats](https://github-readme-stats.vercel.app/api?username=nintu-biju&show_icons=true&theme=radical)
+![Nintu's GitHub stats](https://github-readme-stats.vercel.app/api?username=NintuBiju&show_icons=true&theme=radical)
 
-## 🤝 Let's Connect!
+---
+
+## 🤝 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/nintu-biju)
-- 📧 Open to data analyst opportunities in Canada
+- 📧 Open to Data Analyst opportunities in Canada
 
 ---
 *"Transforming raw data into meaningful insights that drive business decisions"*
