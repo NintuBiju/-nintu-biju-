@@ -35,7 +35,7 @@ Analyzed **5 million** Rogers customer records in Databricks using PySpark and D
 
 🔴 Rogers_Business_Analysis - https://github.com/NintuBiju/Rogers_Business_Analysis
 End-to-end data analytics project covering exploratory analysis, diagnostic churn modelling, revenue growth analysis, and an interactive Tableau dashboard — built on a simulated dataset of 300,000 Rogers Canada subscribers (2020–2025).
-'Databricks' 'Python'
+`Databricks` `Python`
 
 🛒 [Walmart Supply Chain — Operational Efficiency Analysis] https://github.com/NintuBiju/walmart-supply-chain-analysis
 End-to-end data analysis using Python and SQL on Databricks. Analyzed 500,000 supply chain events across 10 years to identify root causes of operational delays.
@@ -64,7 +64,7 @@ https://github.com/NintuBiju
 
 ## 🤝 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/nintu-biju)
-- 📧 Open to Data Analyst opportunities in Canada
+- 📧 Open to Junior Data Analyst opportunities in Canada
 
 ---
 *"Transforming raw data into meaningful insights that drive business decisions"*
